@@ -1,5 +1,7 @@
-## Hi there 👋
+<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/5d4900c8-31b4-48e6-bca3-ead635762310" />
+<div align="center">
 
+commissioned art from @DECEITFULLMANIPULATION
 <!--
 **HEUYUINE/HEUYUINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
